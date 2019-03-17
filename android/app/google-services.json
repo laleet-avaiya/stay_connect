@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "25993328964",
+    "firebase_url": "https://stayconnnect-fed69.firebaseio.com",
+    "project_id": "stayconnnect-fed69",
+    "storage_bucket": "stayconnnect-fed69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25993328964:android:56ecb74b604f9406",
+        "android_client_info": {
+          "package_name": "com.mahitech.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25993328964-9i3vlbhn728hr19k1k4eogm69nrudmsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahitech.flutterapp",
+            "certificate_hash": "0487761e4cc9c8e59a840d47db1f12ee149dceeb"
+          }
+        },
+        {
+          "client_id": "25993328964-aehhua4q63bo131sr7pejrs5tto0sflp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhzqr4ntXSfaVebSBuo23sRtjt1-b-Zxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25993328964-aehhua4q63bo131sr7pejrs5tto0sflp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
